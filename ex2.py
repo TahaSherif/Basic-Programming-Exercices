@@ -1,3 +1,7 @@
+# You have M coins in a line heads facing up. 
+# You flip every second coin, then every third, then every fourth and so on.
+# How many heads are facing up after N steps?
+# How did you get the solution?
 
 def Factors(n):
     #We create a function that generates the factors of an integer n
