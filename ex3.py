@@ -1,3 +1,6 @@
+# Create a function that takes a List<String> and returns a Map<String, Integer> 
+# counting the number of occurrences of each element in the input.
+
 def CountElm (L):
     
     dict1={} # our dicionary
