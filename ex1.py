@@ -1,3 +1,5 @@
+# Write a function that returns the longest sequence of 0-s in the binary representation of a number. For example: 9=1001 => 2
+
 def MaxZeros(n):
     
     # the binary representation of n
